@@ -1,4 +1,5 @@
-Mode 7
+<h3>Mode 7</h3>
+<hr>
 
 Mode 7 é uma forma de mapeamento de uma textura em um plano pseudo-3D. É algo como transformar uma textura 2D em uma perspectiva. Esta forma de renderização teve seu começo na empresa SNES, que utilizava este método como uma vantagem para se por acima de seus concorrentes.
 
