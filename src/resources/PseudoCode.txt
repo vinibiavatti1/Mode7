@@ -1,0 +1,10 @@
+//This is the pseudo-code to generate mode7
+
+for each y in the view do
+    y' <- y / z
+    for each x in the view do
+        x' <- x / z
+        put x',y' texture pixel in x,y view pixel
+    end for
+    z <- z + 1
+end for
